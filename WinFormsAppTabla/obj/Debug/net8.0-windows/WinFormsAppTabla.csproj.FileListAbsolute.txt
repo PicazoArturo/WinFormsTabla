@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net8.0-windows\WinFormsAppTabla.Form1.resources
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net8.0-windows\WinFormsAppTabla.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net8.0-windows\WinFormsAppTabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net8.0-windows\WinFormsAppTabla.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net8.0-windows\WinFormsAppTabla.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net8.0-windows\WinFormsAppTabla.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\bin\Debug\net8.0-windows\WinFormsAppTabla.exe
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\bin\Debug\net8.0-windows\WinFormsAppTabla.deps.json
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\bin\Debug\net8.0-windows\WinFormsAppTabla.runtimeconfig.json
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\bin\Debug\net8.0-windows\WinFormsAppTabla.dll
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\bin\Debug\net8.0-windows\WinFormsAppTabla.pdb
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net8.0-windows\WinFormsAppTabla.dll
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net8.0-windows\refint\WinFormsAppTabla.dll
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net8.0-windows\WinFormsAppTabla.pdb
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net8.0-windows\WinFormsAppTabla.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net8.0-windows\ref\WinFormsAppTabla.dll
+C:\Users\Admin\Desktop\DEV C PROGRAMAS\TERCER SEMESTRE\Actividades de Clase\FORMS\WinFormsAppTabla\WinFormsAppTabla\obj\Debug\net8.0-windows\WinFormsAppTabla.Properties.Resources.resources

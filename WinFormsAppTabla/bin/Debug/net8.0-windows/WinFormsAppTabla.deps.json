@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinFormsAppTabla/1.0.0": {
+        "runtime": {
+          "WinFormsAppTabla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsAppTabla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
